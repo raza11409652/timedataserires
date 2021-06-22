@@ -1,0 +1,15 @@
+{
+  "name": "rpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "raza.11409652@lpu.in",
+  "license": "ISC",
+  "dependencies": {
+    "objects-to-csv": "^1.3.6"
+  }
+}
